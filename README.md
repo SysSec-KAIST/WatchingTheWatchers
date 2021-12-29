@@ -13,6 +13,38 @@ Bring the table here.
 
 # How to use
 
+## Environment Setup
+
+You need to prepare at least one labtop, one cellphone, and one Linux server.
+
+
+### Labtop Setup
+
+Set up Innowireless DM tool on a labtop
+and connect a cellphone used to collect data.
+Most of the Python scripts will be run on this labtop.
+
+
+### Linux Server Setup
+
+Set up airscope on a Linux server.
+We use airscope to capture radio signals in the same way as an adversary.
+
+Additionally, please copy `send_mail.py` to the Linux Server and install `smtpd`
+on the server. This script will be run to notify you when experiments are
+completed via email.
+
+TODO: Add description sudo setup for `mv` and `kill`
+
+
+### Configuration
+Many configuration variables depend on your experimental environment.
+Please see [config.py](config.py) and modify the variables appropriately.
+
+
+
+
+
 ## Data Collection
 
 To collect dataset, we XXX
