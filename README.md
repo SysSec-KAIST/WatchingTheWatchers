@@ -33,10 +33,10 @@ For running DM, XXX
 # Authors
 This project has been conducted by the below authors at KAIST.
 * [Sangwook Bae](https://sites.google.com/site/sangwookbae89)
-Mincheol Son
+* Mincheol Son
 * [Dongkwan Kim](https://0xdkay.me/)
-CheolJun Park
-Jiho Lee
+* CheolJun Park
+* Jiho Lee
 * [Sooel Son](https://sites.google.com/site/ssonkaist/home)
 * [Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/)
 
