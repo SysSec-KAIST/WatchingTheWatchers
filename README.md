@@ -8,7 +8,28 @@ paper](https://www.usenix.org/conference/usenixsecurity22/presentation/bae)
 
 # Dataset
 
-Bring the table here.
+**Table 1: Dataset summary**
+|Dataset|# of Videos|# of Traces|Description|
+|:---:|:---:|---:|---|
+|YouTube100|100|29,715|YouTube Top 100 in [1]|
+|Netflix|22|1,001|Netflix Top 50|
+|Amazon|32|1,210|Prime Video 32|
+|YouTubeCA|100|7,383|YouTube Top 100 in [1] (w/ CA)|
+|YouTube200|200|6,424|YouTube Top 101-300 in [1]|
+|Web|-|268|Visiting randomly selected 45 websites from Alexa Top 50 Website [2]|
+|Teleconf|-|201|Google Meet|
+
+[1]: Most viewed music videos of all time. https://kworb.net/youtube/topvideos.html.
+
+[2]: Katharina Kohls, David Rupprecht, Thorsten Holz, and Christina P̈opper. Lost Traffic Encryption: Fingerprinting LTE/4G Traffic on Layer Two. ACM WiSec19
+
+**Table 2: # of Traces used in the evaluation (YouTube100 videos)**
+|MNO|Video Quality|# of Traces||MNO|Video Quality|# of Traces||MNO|Video Quality|# of Traces|
+|:---:|:---:|---:|-|:---:|:---:|---:|-|:---:|:---:|---:|
+|A|480p|3,184||B|480p|3,376||C|480p|3,262|
+|A|720p|3,196||B|720p|3,318||C|720p|3,218|
+|A|1080p|3,645||B|1080p|3,223||C|1080p|3,293|
+
 
 
 # How to use
