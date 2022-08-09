@@ -43,8 +43,7 @@ Please see [config.py](config.py) and modify the variables appropriately.
 
 
 
-
-
+<!--- 
 ## Data Collection
 
 To collect dataset, we XXX
@@ -61,6 +60,8 @@ adsfasdfasdf
 For data collection, we ran the Python scripts on a labtop running Winodws 10
 and airscope on a server running Linux XXXXX.
 For running DM, XXX
+-->
+
 
 # Authors
 This project has been conducted by the below authors at KAIST.
