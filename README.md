@@ -55,33 +55,10 @@ Additionally, please copy `send_mail.py` to the Linux Server and install `smtpd`
 on the server. This script will be run to notify you when experiments are
 completed via email.
 
-TODO: Add description sudo setup for `mv` and `kill`
-
 
 ### Configuration
 Many configuration variables depend on your experimental environment.
 Please see [config.py](config.py) and modify the variables appropriately.
-
-
-
-<!--- 
-## Data Collection
-
-To collect dataset, we XXX
-
-## Classification?
-
-adsfasdfasdf
-
-
-# Issues
-
-### Tested environment
-
-For data collection, we ran the Python scripts on a labtop running Winodws 10
-and airscope on a server running Linux XXXXX.
-For running DM, XXX
--->
 
 
 # Authors
